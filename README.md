@@ -1,0 +1,1 @@
+This Repo we deploy Springboot application to Google Appengine Standard.
